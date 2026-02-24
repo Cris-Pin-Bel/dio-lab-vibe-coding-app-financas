@@ -1,4 +1,4 @@
-# 💸 Meu App de Finanças Pessoais com Vibe Coding
+# 💸 Meu Prototipo de App de Finanças Pessoais com Vibe Coding
 
 PRD refinado no Copilot:
 
@@ -42,11 +42,20 @@ Pessoas que desejam iniciar a organização de suas finanças de forma prática 
 - Explicações simples em português.  
 - Evitar termos técnicos complexos.
 ```
-
+```
 Interações com o Copilot:
-  
-Resumo do que o *Meu App de Finanças Pessoais com Vibe Coding* faz:
+  > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document) revisado acima
+  > Vamos transformar aquele PRD revisado em um protótipo simples usando apenas HTML, CSS e JavaScript.
+  > A ideia é simular a experiência de conversa, metas e relatórios de forma estática, sem backend.
+  > O copilot apresentou um exemplo de estrutura inicial em html para copiar e colar em um arquivo e começar. 
 
+Resumo do que esse protótipo faz:
+• 	Chat interativo: o usuário digita mensagens como “gastei 50 reais com comida” ou “meta economizar 200 reais”.
+• 	Registro simples: gastos são armazenados em memória (array) e exibidos em relatórios básicos.
+• 	Metas: qualquer mensagem com “meta” é registrada e exibida.
+• 	Agente Financeiro: responde com mensagens educativas e orientações simples.
+
+```
 Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?  
   - O que não funcionou como o esperado?  

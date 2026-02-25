@@ -1,4 +1,4 @@
-# 💸 Meu Prototipo de App de Finanças Pessoais com Vibe Coding
+# 💸 Meu Protótipo de App de Finanças Pessoais com Vibe Coding
 
 PRD refinado no Copilot:
 
@@ -7,7 +7,7 @@ PRD refinado no Copilot:
 
 ## Contexto
 Aplicativo de Organização de Finanças Pessoais baseado em conversas.  
-Objetivo: facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+Objetivo: facilitar o controle financeiro sem formulários manuais ou planilhas complexas.
 
 ## Problema
 Usuários desistem de controlar gastos porque os apps atuais exigem muita entrada manual e oferecem pouca personalização.  
@@ -20,8 +20,7 @@ Pessoas que desejam iniciar a organização de suas finanças de forma prática 
 1. Registrar gastos via chat em linguagem natural.  
 2. Classificar automaticamente transações por categoria.  
 3. Definir e acompanhar metas financeiras.  
-4. Receber dicas de economia do “Agente Financeiro”.  
-5. Visualizar relatórios simples e personalizados.
+4. Visualizar relatórios simples e personalizados.  
 
 ## MVP - Entregável
 - **Telas principais:**
@@ -42,21 +41,31 @@ Pessoas que desejam iniciar a organização de suas finanças de forma prática 
 - Explicações simples em português.  
 - Evitar termos técnicos complexos.
 ```
-```
 Interações com o Copilot:
-  > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document) revisado acima
-  > Vamos transformar aquele PRD revisado em um protótipo simples usando apenas HTML, CSS e JavaScript.
-  > A ideia é simular a experiência de conversa, metas e relatórios de forma estática, sem backend.
-  > O copilot apresentou um exemplo de estrutura inicial em html para copiar e colar em um arquivo e começar. 
+  
+  Instrução:
+  - Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document) revisado acima.
 
-Resumo do que esse protótipo faz:
-• 	Chat interativo: o usuário digita mensagens como “gastei 50 reais com comida” ou “meta economizar 200 reais”.
-• 	Registro simples: gastos são armazenados em memória (array) e exibidos em relatórios básicos.
-• 	Metas: qualquer mensagem com “meta” é registrada e exibida.
-• 	Agente Financeiro: responde com mensagens educativas e orientações simples.
-
-```
+  Copilot:
+  - Vamos transformar aquele PRD revisado em um protótipo simples usando apenas HTML, CSS e JavaScript.
+  - A ideia é simular a experiência de conversa, metas e relatórios de forma estática, sem backend.
+  - Aqui está um exemplo de estrutura inicial que você pode copiar e colar em um arquivo index.html para começar:
+    
+Resumo do que o App faz:
+  - Chat interativo: o usuário digita mensagens como “gastei 50 reais com comida” ou “meta economizar 200 reais”.
+  - Registro simples: gastos são armazenados em memória (array) e exibidos em relatórios básicos.
+  - Metas: qualquer mensagem com “meta” é registrada e exibida.
+  - Agente Financeiro: responde com mensagens educativas e orientações simples.
+  - Você pode expandir adicionando gráficos em CSS/JS (por exemplo, usando Canvas), ou até integrar bibliotecas leves como Chart.js para relatórios visuais.
+  
 Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+  - O que funcionou bem?
+  
+    A eficiência da IA para entender os comandos.
+  - O que não funcionou como o esperado?
+    
+    Tudo funcionou como esperado, não houve alucinação da IA. 
   - O que aprendeu sobre conversar com IAs?
+    
+    Aprendi o quanto é importante especificar a instrução para a IA, pois a resposta é feita por probabilidades dentro de um gigantesco conteúdo de informações. 
+

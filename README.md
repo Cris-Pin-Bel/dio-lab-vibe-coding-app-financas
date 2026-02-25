@@ -57,6 +57,10 @@ Resumo do que o App faz:
   - Metas: qualquer mensagem com “meta” é registrada e exibida.
   - Agente Financeiro: responde com mensagens educativas e orientações simples.
   - Você pode expandir adicionando gráficos em CSS/JS (por exemplo, usando Canvas), ou até integrar bibliotecas leves como Chart.js para relatórios visuais.
+
+
+<img width="1887" height="752" alt="image" src="https://github.com/user-attachments/assets/27c248af-77ea-4fcc-bf65-8ab4e8bbda48" />
+
   
 Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?

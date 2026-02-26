@@ -1,4 +1,4 @@
-# 💸 Meu Protótipo de App de Finanças Pessoais com Vibe Coding
+# 💸 App de Finanças Pessoais - Meu Protótipo com Vibe Coding
 
 PRD refinado no Copilot:
 
